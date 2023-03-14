@@ -1,7 +1,7 @@
 {
     "name": "discord-cas",
     "version": "1.0.0",
-    "description": "A public Discord Bot, made for interfacing with a Central Authentication Service rotocol",
+    "description": "A base for a Discord bot with TypeScript and Discord.js",
     "main": "index.js",
     "scripts": {
         "start": "ts-node src/index.ts",
@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NaNoMelo/Discord-CAS.git"
+        "url": "https://github.com/NaNoMelo/Discord-Bot-Base.git"
     },
     "keywords": [
         "Discord-Bot"
